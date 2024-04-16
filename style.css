@@ -1,0 +1,8 @@
+.yellow{
+    position: absolute;
+    display: flex;
+    bottom: -3500px;
+    flex-wrap: wrap;
+    gap: 15rem;
+    left: 200px;
+}
